@@ -16,7 +16,7 @@ Instructors:
 ### Introduction to Machine Learning and Neural Networks
 | Date | Session         | Notebook          | Exercises |
 | :----| :----| :------------- | :------------- | 
-| June-6 | Introduction to python and ML | <ul><li>Intro to ML </li> <li>Intro to Python for data analysis </li><li> Linear models </li></ul> | <ul><li>E1 - Python </li> <li>E2 - Pandas</li><li> E3 - Regression </li></ul> | 
+| June-6 | Introduction to python and ML | <ul><li>[1 - Intro to ML](http://nbviewer.jupyter.org/github/albahnsen/AppliedDeepLearningClass/blob/master/notebooks/01-IntroMachineLearning.ipynb) </li> <li>[2- Intro to Python for data analysis](http://nbviewer.jupyter.org/github/albahnsen/AppliedDeepLearningClass/blob/master/notebooks/02-IntroPython_Numpy_Scypy_Pandas.ipynb) </li><li> [3 - Linear Regression](http://nbviewer.jupyter.org/github/albahnsen/AppliedDeepLearningClass/blob/master/notebooks/03-linear_regression.ipynb) </li><li>[4 - Logistic Regression](http://nbviewer.jupyter.org/github/albahnsen/AppliedDeepLearningClass/blob/master/notebooks/04-logistic_regression.ipynb)</li></ul> | <ul><li>[E1 - Python&Pandas](http://nbviewer.jupyter.org/github/albahnsen/AppliedDeepLearningClass/blob/master/exercises/E01-Python%26Numpy%26Pandas.ipynb) </li> <li> [E2 - Regression](http://nbviewer.jupyter.org/github/albahnsen/AppliedDeepLearningClass/blob/master/exercises/E02-Regression-IncomePrediction.ipynb) </li></ul> | 
 | June-8 | Machine learning systems | <ul><li>Data preparation and model evaluation</li><li>Ensemble methods</li><li>Model deployment</li></ul> | <ul><li>E4 - Models </li> <li>E5 - Ensembles</li><li> **Project1 - Kaggle** </li></ul> | 
 | June-20 | Neural networks basics |  |  | 
 

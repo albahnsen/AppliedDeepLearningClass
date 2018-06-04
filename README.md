@@ -8,7 +8,10 @@ This course on Deep Learning will explain how to build systems that learn and ad
 
 Instructors: 
 - Dr. Alejandro Correa Bahnsen <http://albahnsen.com>
-- Prof. Dr. Fabio Gonzalez
+- Prof. Dr. Fabio Gonzalez <http://dis.unal.edu.co/~fgonza/>
+
+Graduate assistant:
+- Sergio Angulo
 
 
 ## Schedule

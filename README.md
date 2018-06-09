@@ -11,7 +11,7 @@ Instructors:
 - Prof. Dr. Fabio Gonzalez <http://dis.unal.edu.co/~fgonza/>
 
 Graduate assistant:
-- Sergio Angulo
+- Sergio Angulo <sa.angulo@uniandes.edu.co>
 
 
 ## Schedule

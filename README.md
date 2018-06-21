@@ -26,7 +26,7 @@ Graduate assistant:
 ### Introduction to Deep Learning
 | Date | Session         | Notebook          | Exercises |
 | :----| :----| :------------- | :------------- | 
-| June-22 | Introduction to deep learning and applications |  |  | 
+| June-22 | Introduction to deep learning and applications |  <ul><li>[9 - Intro to NN](http://nbviewer.jupyter.org/github/albahnsen/AppliedDeepLearningClass/blob/master/notebooks/09-Intro_Neural_Networks.ipynb) </li> <li>[10 - Perceptron](http://nbviewer.jupyter.org/github/albahnsen/AppliedDeepLearningClass/blob/master/notebooks/10-Perceptron_Training.ipynb) </li><li> [11 - NN in Keras](http://nbviewer.jupyter.org/github/albahnsen/AppliedDeepLearningClass/blob/master/notebooks/11-NN_in_Keras.ipynb) </li></ul>  | <ul><li>[E5 - Neural Networks](http://nbviewer.jupyter.org/github/albahnsen/AppliedDeepLearningClass/blob/master/exercises/E05-neural%20networks.ipynb) </li> </ul>  | 
 | July-4 | Deep learning frameworks |  |  | 
 
 ### Deep Learning for Image Analysis

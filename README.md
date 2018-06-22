@@ -13,11 +13,12 @@ Instructors:
 Graduate assistant:
 - Sergio Angulo <sa.angulo@uniandes.edu.co>
 
-### Resources
+## Resources
 
 * \[Goodfellow16\] Goodfellow, I., Bengio, Y., Courville, A., & Bengio, Y. (2016). [Deep learning](http://www.deeplearningbook.org/) (Vol. 1). Cambridge: MIT press.
 * Fabio González, [Machine Learning](https://fagonzalezo.github.io/ml-2018-1/), 2018-1, Universidad Nacional de Colombia
 * Fabio González, [Deep Learning for Text Analysis and Understanding](https://fagonzalezo.github.io/dl-tau-2017-2/) , Fall 2017, University of Houston
+* Fabio González, [Representation Learning and Deep Learning Tutorial](https://fagonzalezo.github.io/dl_tutorial_upv/), Univ. Politécnica de Valencia, 2016
 
 
 ## Schedule
@@ -30,9 +31,9 @@ Graduate assistant:
 | June-20 | Neural networks basics | <ul><li>[9 - Intro to NN](http://nbviewer.jupyter.org/github/albahnsen/AppliedDeepLearningClass/blob/master/notebooks/09-Intro_Neural_Networks.ipynb) </li> <li>[10 - Perceptron Training](http://nbviewer.jupyter.org/github/albahnsen/AppliedDeepLearningClass/blob/master/notebooks/10-Perceptron_Training.ipynb) </li><li> [11 - NN in Keras](http://nbviewer.jupyter.org/github/albahnsen/AppliedDeepLearningClass/blob/master/notebooks/11-NN_in_Keras.ipynb) </li></ul> | <ul><li>[E5 - Neural Networks](http://nbviewer.jupyter.org/github/albahnsen/AppliedDeepLearningClass/blob/master/exercises/E05-neural%20networks.ipynb) </li> </ul> | 
 
 ### Introduction to Deep Learning
-| Date | Session         | Notebook          | Exercises |
+| Date | Session         |Notebooks/Presentations          | Exercises |
 | :----| :----| :------------- | :------------- | 
-| June-22 | Introduction to deep learning and applications |    |   | 
+| June-22 | Introduction to deep learning and applications | [Intro to Deep Learning](https://github.com/albahnsen/AppliedDeepLearningClass/blob/master/presentations/DL-introduction.pdf)   |   | 
 | July-4 | Deep learning frameworks |  |  | 
 
 ### Deep Learning for Image Analysis

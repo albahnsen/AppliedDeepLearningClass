@@ -13,6 +13,12 @@ Instructors:
 Graduate assistant:
 - Sergio Angulo <sa.angulo@uniandes.edu.co>
 
+### Resources
+
+* \[Goodfellow16\] Goodfellow, I., Bengio, Y., Courville, A., & Bengio, Y. (2016). [Deep learning](http://www.deeplearningbook.org/) (Vol. 1). Cambridge: MIT press.
+* Fabio González, [Machine Learning](https://fagonzalezo.github.io/ml-2018-1/), 2018-1, Universidad Nacional de Colombia
+* Fabio González, [Deep Learning for Text Analysis and Understanding](https://fagonzalezo.github.io/dl-tau-2017-2/) , Fall 2017, University of Houston
+
 
 ## Schedule
 
@@ -53,3 +59,5 @@ Graduate assistant:
 | Date | Session         | 
 | :----| :----| 
 | July-23 | Final project presentations | 
+
+

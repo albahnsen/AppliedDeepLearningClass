@@ -18,7 +18,7 @@ Graduate assistant:
 * \[Goodfellow16\] Goodfellow, I., Bengio, Y., Courville, A., & Bengio, Y. (2016). [Deep learning](http://www.deeplearningbook.org/) (Vol. 1). Cambridge: MIT press.
 * Fabio González, [Machine Learning](https://fagonzalezo.github.io/ml-2018-1/), 2018-1, Universidad Nacional de Colombia
 * Fabio González, [Deep Learning for Text Analysis and Understanding](https://fagonzalezo.github.io/dl-tau-2017-2/) , Fall 2017, University of Houston
-* Fabio González, [Representation Learning and Deep Learning Tutorial](https://fagonzalezo.github.io/dl_tutorial_upv/), Univ. Politécnica de Valencia, 2016
+* Fabio González, [Representation Learning and Deep Learning Tutorial](https://fagonzalezo.github.io/dl_tutorial_upv/), 2016, Univ. Politécnica de Valencia
 
 
 ## Schedule

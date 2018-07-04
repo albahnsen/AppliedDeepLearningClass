@@ -33,8 +33,8 @@ Graduate assistant:
 ### Introduction to Deep Learning
 | Date | Session         |Notebooks/Presentations          | Exercises |
 | :----| :----| :------------- | :------------- | 
-| June-22 | Introduction to deep learning and applications | [Intro to Deep Learning](https://github.com/albahnsen/AppliedDeepLearningClass/blob/master/presentations/DL-introduction.pdf)   |   | 
-| July-4 | Deep learning frameworks |  |  | 
+| June-22 | Introduction to deep learning and applications | [12-Intro to Deep Learning](https://github.com/albahnsen/AppliedDeepLearningClass/blob/master/presentations/DL-introduction.pdf)   |   | 
+| July-4 | Deep learning frameworks |<ul><li>[13 - Intro to Tensor Flow](http://nbviewer.jupyter.org/github/albahnsen/AppliedDeepLearningClass/blob/master/notebooks/13-IntroTensorFlow.ipynb) </li> </ul>  |<ul><li>[E6 - TensorFlow and Keras](http://nbviewer.jupyter.org/github/albahnsen/AppliedDeepLearningClass/blob/master/exercises/E06-TensorFlow-Keras.ipynb) </li> </ul>  | 
 
 ### Deep Learning for Image Analysis
 | Date | Session         | Notebook          | Exercises |

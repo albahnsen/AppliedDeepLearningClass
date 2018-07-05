@@ -33,14 +33,14 @@ Graduate assistant:
 ### Introduction to Deep Learning
 | Date | Session         |Notebooks/Presentations          | Exercises |
 | :----| :----| :------------- | :------------- | 
-| June-22 | Introduction to deep learning and applications |<ul><li> [12-Intro to Deep Learning](https://github.com/albahnsen/AppliedDeepLearningClass/blob/master/presentations/DL-introduction.pdf) </li> </ul>  |   | 
+| June-22 | Introduction to deep learning and applications |<ul><li> [12 - Intro to Deep Learning](https://github.com/albahnsen/AppliedDeepLearningClass/blob/master/presentations/DL-introduction.pdf) </li> </ul>  |   | 
 | July-4 | Deep learning frameworks |<ul><li>[13 - Intro to TensorFlow](https://github.com/albahnsen/AppliedDeepLearningClass/blob/master/notebooks/13-IntroTensorFlow.ipynb) </li><li>[14 - Deep Learning Frameworks](https://fagonzalezo.github.io/dl-tau-2017-2/lecture4_slides.pdf) </li></ul>  |<ul><li>[E6 - TensorFlow and Keras](http://nbviewer.jupyter.org/github/albahnsen/AppliedDeepLearningClass/blob/master/exercises/E06-TensorFlow-Keras.ipynb) </li> </ul>  | 
 
 ### Deep Learning for Image Analysis
 | Date | Session         | Notebook          | Exercises |
 | :----| :----| :------------- | :------------- | 
-| July-5 | Deep learning for image analyssis & CNN |  |  | 
-| July-6 | CNN for object recognitionNeural networks basics |  |  | 
+| July-5 | Deep learning for image analyssis & CNN | <ul><li> [15 - CNN training in Keras](https://colab.research.google.com/drive/1Z6r82FlQTBXTh3GZCPc9LeZClxFVhcl_) </li> </ul>  |  | 
+| July-6 | CNN for object recognition |  |  | 
 | July-11 | Generative models, segmentation, image captioning|  |  | 
 
 ### Deep Learning for Text Analysis

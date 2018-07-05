@@ -34,7 +34,7 @@ Graduate assistant:
 | Date | Session         |Notebooks/Presentations          | Exercises |
 | :----| :----| :------------- | :------------- | 
 | June-22 | Introduction to deep learning and applications |<ul><li> [12-Intro to Deep Learning](https://github.com/albahnsen/AppliedDeepLearningClass/blob/master/presentations/DL-introduction.pdf) </li> </ul>  |   | 
-| July-4 | Deep learning frameworks |<ul><li>[13 - Intro to TensorFlow](http://nbviewer.jupyter.org/github/albahnsen/AppliedDeepxLearningClass/blob/master/notebooks/13-IntroTensorFlow.ipynb) </li><li>[14 - Deep Learning Frameworks](https://fagonzalezo.github.io/dl-tau-2017-2/lecture4_slides.pdf) </li></ul>  |<ul><li>[E6 - TensorFlow and Keras](http://nbviewer.jupyter.org/github/albahnsen/AppliedDeepLearningClass/blob/master/exercises/E06-TensorFlow-Keras.ipynb) </li> </ul>  | 
+| July-4 | Deep learning frameworks |<ul><li>[13 - Intro to TensorFlow](https://github.com/albahnsen/AppliedDeepLearningClass/blob/master/notebooks/13-IntroTensorFlow.ipynb) </li><li>[14 - Deep Learning Frameworks](https://fagonzalezo.github.io/dl-tau-2017-2/lecture4_slides.pdf) </li></ul>  |<ul><li>[E6 - TensorFlow and Keras](http://nbviewer.jupyter.org/github/albahnsen/AppliedDeepLearningClass/blob/master/exercises/E06-TensorFlow-Keras.ipynb) </li> </ul>  | 
 
 ### Deep Learning for Image Analysis
 | Date | Session         | Notebook          | Exercises |

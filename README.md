@@ -39,7 +39,7 @@ Graduate assistant:
 ### Deep Learning for Image Analysis
 | Date | Session         | Notebook          | Exercises |
 | :----| :----| :------------- | :------------- | 
-| July-5 | Deep learning for image analyssis & CNN | <ul><li> [15 - CNN training in Keras](https://colab.research.google.com/drive/1Z6r82FlQTBXTh3GZCPc9LeZClxFVhcl_) </li> </ul>  |  | 
+| July-5 | Deep learning for image analyssis & CNN | <ul><li> [15 - CNN training in Keras](https://colab.research.google.com/drive/1Z6r82FlQTBXTh3GZCPc9LeZClxFVhcl_) </li> </ul>  | <ul><li>[P2 - Image Classification with CNN](http://nbviewer.jupyter.org/github/albahnsen/AppliedDeepLearningClass/blob/master/exercises/P2-ImageClassificationCNN.ipynb) </li> </ul> | 
 | July-6 | CNN for object recognition |  |  | 
 | July-11 | Generative models, segmentation, image captioning|  |  | 
 

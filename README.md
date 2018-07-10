@@ -41,7 +41,7 @@ Graduate assistant:
 | :----| :----| :------------- | :------------- | 
 | July-5 | Deep learning for image analyssis & CNN | <ul><li> [15 - CNN training in Keras](https://colab.research.google.com/drive/1Z6r82FlQTBXTh3GZCPc9LeZClxFVhcl_) </li> </ul>  | <ul><li>[P2 - Image Classification with CNN](http://nbviewer.jupyter.org/github/albahnsen/AppliedDeepLearningClass/blob/master/exercises/P2-ImageClassificationCNN.ipynb) </li> </ul> | 
 | July-6 | CNN and transfer learning | <ul><li>[16 - Convolutional Neural Networks](http://nbviewer.jupyter.org/github/albahnsen/AppliedDeepLearningClass/blob/master/notebooks/16-CNN.ipynb) </li> <li>[17 - Transfer Learning](http://nbviewer.jupyter.org/github/albahnsen/AppliedDeepLearningClass/blob/master/notebooks/17-Transfer%20Learning.ipynb) </li></ul>  | <ul><li>[E7 - Image Captioning](http://nbviewer.jupyter.org/github/albahnsen/AppliedDeepLearningClass/blob/master/exercises/E07-CNN_TransferLearning_CIFAR10.ipynb) </li> </ul> | 
-| July-11 | Generative models | <ul><li>[16 - Convolutional Neural Networks](http://nbviewer.jupyter.org/github/albahnsen/AppliedDeepLearningClass/blob/master/notebooks/16-CNN.ipynb) </li> <li>[18 - Generative Adversarial Networks](http://nbviewer.jupyter.org/github/albahnsen/AppliedDeepLearningClass/blob/master/notebooks/18-GenerativeAdversarialNetworks.ipynb) </li></ul>  |  | 
+| July-11 | Generative models | <ul><li>[18 - Generative Adversarial Networks](http://nbviewer.jupyter.org/github/albahnsen/AppliedDeepLearningClass/blob/master/notebooks/18-GenerativeAdversarialNetworks.ipynb) </li></ul>  |  | 
 
 ### Deep Learning for Text Analysis
 | Date | Session         | Notebook          | Exercises |

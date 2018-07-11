@@ -57,8 +57,8 @@ Graduate assistant:
 | July-19 | Deep learning applications |  
 
 ### Final Project
-| Date | Session         | 
-| :----| :----| 
-| July-23 | Final project presentations | 
+| Date | Session         |  Readme | Kaggle |
+| :----| :----| :----| :----| 
+| July-23 | Final project presentations | [Description](https://github.com/albahnsen/AppliedDeepLearningClass/tree/master/finalProject) | [Link Kaggle](https://www.kaggle.com/c/miia4406-movie-genre-classification) |
 
 

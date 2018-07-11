@@ -4,6 +4,7 @@
 
 The use of statistical models in computer algorithms allows computers to make decisions and predictions, and to perform tasks that traditionally require human cognitive abilities. Deep learning is the interdisciplinary field at the intersection of statistics and computer science which develops such algorithnms and interweaves them with computer systems. It underpins many modern technologies, such as speech recognition, internet search, bioinformatics, computer vision, Amazon’s recommender system, Google’s driverless car and the most recent imaging systems for cancer diagnosis are all based on Deep Learning technology.
 
+
 This course on Deep Learning will explain how to build systems that learn and adapt using real-world applications. Some of the topics to be covered include deep learning frameworks, convolutional neural networks, generative models nadrecurrent models. The course will be project-oriented, with emphasis placed on writing software implementations of learning algorithms applied to real-world problems, in particular, image analysis, image captioning, natural language pocessing, sentiment detection, among others.
 
 Instructors: 

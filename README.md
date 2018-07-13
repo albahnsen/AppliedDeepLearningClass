@@ -48,14 +48,7 @@ Graduate assistant:
 | Date | Session         | Notebook          | Exercises |
 | :----| :----| :------------- | :------------- | 
 | July-12 | Intro to NLP & Intro to RNN | <ul><li> [19 - Intro to Natural Language Processing](http://nbviewer.jupyter.org/github/albahnsen/AppliedDeepLearningClass/blob/master/notebooks/19-NLP.ipynb) </li> </ul> | <ul><li>[E8 - Sentiment Classification](http://nbviewer.jupyter.org/github/albahnsen/AppliedDeepLearningClass/blob/master/exercises/E08-SentimentPrediction.ipynb) </li> </ul> | 
-| July-13 | Word2vec & RNN for text analysis | <ul><li> [20 - Recurrent Neural Network and LSTM](http://nbviewer.jupyter.org/github/albahnsen/AppliedDeepLearningClass/blob/master/notebooks/20-RecurrentNeuralNetworks_LSTM.ipynb) </li> </ul> | <ul><li> [E9 - Sequance Classification using LSTM](http://nbviewer.jupyter.org/github/albahnsen/AppliedDeepLearningClass/blob/master/exercises/E09-LSTM_sentimentClassification.ipynb) </li> </ul> | 
-
-### Deep Learning for Applications
-| Date | Session         | 
-| :----| :----| 
-| July-16 | Deep learning applications |  
-| July-17 | Deep learning applications |  
-| July-19 | Deep learning applications |  
+| July-13 | Word2vec & RNN for text analysis | <ul><li> [20 - Recurrent Neural Network and LSTM](http://nbviewer.jupyter.org/github/albahnsen/AppliedDeepLearningClass/blob/master/notebooks/20-RecurrentNeuralNetworks_LSTM.ipynb) </li>  <li> [21 - Word2Vec](http://nbviewer.jupyter.org/github/albahnsen/AppliedDeepLearningClass/blob/master/notebooks/21-Word2vec.ipynb) </li> </ul> | <ul><li> [E9 - Sequance Classification using LSTM](http://nbviewer.jupyter.org/github/albahnsen/AppliedDeepLearningClass/blob/master/exercises/E09-LSTM_sentimentClassification.ipynb) </li> </ul> | 
 
 ### Final Project
 | Date | Session         |  Readme | Kaggle |
